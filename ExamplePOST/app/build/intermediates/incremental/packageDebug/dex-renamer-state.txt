@@ -1,0 +1,7 @@
+#Sat Feb 18 14:18:38 CET 2017
+base.0=/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/ExamplePOST/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f16bfcaf98366841a72c286bb9fdd9b926ef59ac
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/ExamplePOST/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2e8c1f75f3da019b242e5ad2ea026315e366f0c9/classes.dex
+base.1=/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/ExamplePOST/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2e8c1f75f3da019b242e5ad2ea026315e366f0c9
+file.0=/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/ExamplePOST/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f16bfcaf98366841a72c286bb9fdd9b926ef59ac/classes.dex

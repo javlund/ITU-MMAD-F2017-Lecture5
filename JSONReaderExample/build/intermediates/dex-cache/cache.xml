@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/JSONReaderExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa5ffe6d10d5d682e8fa89a2ca9c456c9018d567">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/JSONReaderExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a6274acd9162af98d3ea398a27bd2c978cbe77d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/JSONReaderExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48d0dc4e671aa766bfd29a848419802db00bfdd9">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/JSONReaderExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aa785c4363c692b9e26c904bc215eddd0490b56a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/Documents/ADT_MMAD/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/JSONReaderExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c71d26ef4a3272686cb591cb3bff6b9efc81714e/classes.dex" />
+    </item>
+
+</items>

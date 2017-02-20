@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/ExampleGET/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="054f04ce38fbe1cf8a48440b5eed848a2833ba72">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/ExampleGET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9e54b55b367b1486865a7d57722dc3eeef720e9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/Documents/ADT_MMAD/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/ExampleGET/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c71d26ef4a3272686cb591cb3bff6b9efc81714e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/ExampleGET/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f82152e55bc8eb1e7d6cddda4f97daf383cda0">
+        <dex dex="/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/ExampleGET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_24b1c718b6c06810a79f423f5c3cb172587b619d/classes.dex" />
+    </item>
+
+</items>

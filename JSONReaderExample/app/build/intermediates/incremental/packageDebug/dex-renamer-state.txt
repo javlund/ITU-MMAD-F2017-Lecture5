@@ -1,0 +1,7 @@
+#Mon Feb 20 21:53:29 CET 2017
+base.0=/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/JSONReaderExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aa785c4363c692b9e26c904bc215eddd0490b56a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/JSONReaderExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a6274acd9162af98d3ea398a27bd2c978cbe77d6/classes.dex
+base.1=/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/JSONReaderExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a6274acd9162af98d3ea398a27bd2c978cbe77d6
+file.0=/Users/avlund/AndroidStudioProjects/MMAD2015/Lecture10/JSONReaderExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aa785c4363c692b9e26c904bc215eddd0490b56a/classes.dex
